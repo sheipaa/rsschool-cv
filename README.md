@@ -1,1 +1,1 @@
-https://sheipaa.github.io/rsschool-cv/c
+https://sheipaa.github.io/rsschool-cv/
