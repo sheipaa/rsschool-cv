@@ -40,7 +40,3 @@ function arithmetic(a, b, operator){
 * Polish – Advanced
 * Russian, Belorussian - Native
 
-
-
-I started my career working in a bank. I analyzed big data, prepared presentations, user manuals, conducted trainings for bank employees (time management, stress tolerance, communication with clients, etc.)
-Moving to Poland became a new starting point for me. I tried myself in different fields to understand what I really want. After completing the preparatory course, I was 100% convinced that the IT sphere suits me.
