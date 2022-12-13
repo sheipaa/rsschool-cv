@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sheipaa.github.io/rsschool-cv/c
